@@ -1,6 +1,5 @@
 # ATS_EX Firmware for ATS-20 DSP Receiver
-### Руководство на русском языке можно прочитать здесь (Russian README is here) :
-[>>> Ссылка на русский README. <<<](/rus/README.md)
+
 ## Basic description
 This is advanced firmware for **ATS-20** that is working on **Arduino Nano** and **Si473x** DSP receiver chip.
 ATS_EX is created by **Goshante**, based on **PU2CLR** firmware and inspired by **swling.ru** firmware with closed source.
